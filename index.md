@@ -49,8 +49,10 @@ and Part II ( [TeX](CProgramming/CProg2.tex) | [PDF](CProgramming/CProg2.pdf) )
 
 # Development Tools
 
-Repository for storing my RMD, HTML, TeX and PDF files for seminars on Makefiles, Software Installation, SPACK, Debugging and Profiling.
-( [TeX](DevTools/softdev.tex) | [PDF](DevTools/softdev.pdf) ).
+Repository for storing my RMD, HTML, TeX and PDF files for seminars on 
+* Makefiles, Software Installation, and SPACK ( [Rmd](DevTools/byos.Rmd) | [HTML](DevTools/byos.html) ),
+* Containers ( [Rmd](DevTools/byos-containers.Rmd) | [HTML](DevTools/byos-containers.html) ), 
+* Debugging and Profiling ( [TeX](DevTools/softdev.tex) | [PDF](DevTools/softdev.pdf) ).
 
 
 ## Fortran
