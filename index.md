@@ -149,8 +149,53 @@ This tutorial introduces parallel programming concepts.
 
   * Guest Lecture ME413, Lehigh University (Fall 2015)
 
-## Research Computing Resources at Lehigh
-This tutorial gives an overview of Research Computing Resources available to Lehigh Researchers.
+## Python Programming
+
+Repository for storing Jupyter Notebook and sample scripts 
+for HPC Training on Python Programming. 
+([HTML](Python/index.html) | [PDF](Python/index.pdf)) 
+
+* LTS Seminar Series at Lehigh University on 
+    + Jul. 2018
+
+
+## Lehigh University Research Computing Resources 
+Slides for presentation specific to Lehigh University Research Computing and guest lectures for various courses
+
+* [allocproposal.html](RProgramming/allocproposal.html)
+* [byos.html](RProgramming/byos.html)
+* [che396.html](RProgramming/che396.html)
+* [chm488.html](RProgramming/chm488.html)
+* [cse375.html](RProgramming/cse375.html)
+* [cse411.html](RProgramming/cse411.html)
+* [ees403.html](RProgramming/ees403.html)
+* [fac_orient.html](RProgramming/fac_orient.html)
+* [hpc2017.html](RProgramming/hpc2017.html)
+* [hpc2018.html](RProgramming/hpc2018.html)
+* [hpc2021.html](RProgramming/hpc2021.html)
+* [hpc2021parprog.html](RProgramming/hpc2021parprog.html)
+* [hpc2021parprog_interactive.html](RProgramming/hpc2021parprog_interactive.html)
+* [hpc2021prog.html](RProgramming/hpc2021prog.html)
+* [hpcsym2021.html](RProgramming/hpcsym2021.html)
+* [idisc.html](RProgramming/idisc.html)
+* [index.html](RProgramming/index.html)
+* [ise407.html](RProgramming/ise407.html)
+* [ltsrc.html](RProgramming/ltsrc.html)
+* [lurc-old.html](RProgramming/lurc-old.html)
+* [lurc.html](RProgramming/lurc.html)
+* [me450.html](RProgramming/me450.html)
+* [ondemand.html](RProgramming/ondemand.html)
+* [slurm-old.html](RProgramming/slurm-old.html)
+* [slurm.html](RProgramming/slurm.html)
+
+
+
+## R Programming
+
+Repository for storing R Markdown and sample scripts for HPC Training on R Programming.
+([HTML](RProgramming/index.html) | [PDF](RProgramming/index.pdf)) 
+
+
 
 
 ## Shell Scripting
@@ -159,7 +204,7 @@ command line arguments and functions ( [TeX](Shell/Shell-Scripting-1.tex) | [PDF
  From Fall 2013 onwards, this tutorial is a two part 
 series wherein regex, sed, awk and other file manipulating utilities are covered in the 
 second part ( [TeX](Shell/Shell-Scripting-2.tex) | [PDF](Shell/Shell-Scripting-2.pdf) )
-
+([HTML](index.html) | [PDF](index.pdf))
   * HPC Training Series at LSU on
     + Sep. 26, 2012 
     + Feb. 27, 2013
@@ -180,7 +225,8 @@ This tutorial gives an overview of HPC Software Environment at LSU and LONI
 
 # Contributer
 Alex Pacheco  
- Manager, Research Computing, Lehigh University (Sep. 2014 - Present)  
+ Associate CIO, Advanced Research Computing, NJIT (Aug. 2022 - Present)
+ Manager, Research Computing, Lehigh University (Sep. 2014 - Jul. 2022)  
  HPC User Services Consultant, LSU & LONI (Aug. 2010 - Sep. 2014)  
 
 -------------------------------------------------------------------------------------
