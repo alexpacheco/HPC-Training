@@ -37,3 +37,15 @@
 [submodule "HPC"]
 	path = HPC
 	url = ../hpc
+[submodule "Python"]
+	path = Python
+	url = git@github.com:alexpacheco/python.git
+[submodule "RProgramming"]
+	path = RProgramming
+	url = git@github.com:alexpacheco/rprog.git
+[submodule "LURC"]
+	path = LURC
+	url = git@github.com:alexpacheco/lurc.git
+[submodule "DevTools"]
+	path = DevTools
+	url = git@github.com:alexpacheco/devtools.git
