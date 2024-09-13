@@ -47,6 +47,12 @@ Part I ( [TeX](CProgramming/CProg1.tex) | [PDF](CProgramming/CProg1.pdf) )
 and Part II ( [TeX](CProgramming/CProg2.tex) | [PDF](CProgramming/CProg2.pdf) )
 
 
+# Development Tools
+
+Repository for storing my RMD, HTML, TeX and PDF files for seminars on Makefiles, Software Installation, SPACK, Debugging and Profiling.
+( [TeX](DevTools/softdev.tex) | [PDF](DevTools/softdev.pdf) ).
+
+
 ## Fortran
 Repository for storing my presentation, TeX and PDF files for HPC 
 Training on Fortran.
