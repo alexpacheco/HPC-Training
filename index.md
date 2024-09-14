@@ -15,7 +15,7 @@ of Lehigh University&#39;s LTS Seminar Series.
 ## AutoDock
 This tutorial give an introduction to AutoDock and AutoDock tools presented once for 
  the HPC Training Series at LSU on Mar. 28, 2012 
- ( [TeX](AutoDock/AutoDock.tex) | [PDF](AutoDock/AutoDock.pdf) )
+ ( [TeX](../autodock/AutoDock.tex) | [PDF](../autodock/AutoDock.pdf) )
 
 ## Chemistry
 This tutorial gives a brief introduction to computational chemistry 
