@@ -103,6 +103,7 @@ This tutorial provides an introduction to Linux, basic commands and environment.
 Part 1 ( [TeX](Linux/Linux-1.tex) | [PDF](Linux/Linux-1.pdf) )
 Part 2 ( [TeX](Linux/Linux-2.tex) | [PDF](Linux/Linux-2.pdf) )
 
+
   * HPC Training Series at LSU on
     + Feb. 6, 2013
     + Sep. 11, 2013
@@ -170,7 +171,7 @@ for HPC Training on Python Programming.
 ## Lehigh University Research Computing Resources 
 Slides for presentation specific to Lehigh University Research Computing and guest lectures for various courses
 
-* Lehigh University Resources ([HTML](lurc/lurc.html) | [RMD](lurc.Rmd))
+* Lehigh University Resources ([HTML](LURC/lurc.html) | [RMD](LURC/lurc.Rmd))
 
 
 
