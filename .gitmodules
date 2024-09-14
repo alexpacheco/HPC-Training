@@ -49,3 +49,6 @@
 [submodule "DevTools"]
 	path = DevTools
 	url = git@github.com:alexpacheco/devtools.git
+[submodule "ParallelProgramming"]
+	path = ParallelProgramming
+	url = git@github.com:alexpacheco/parprog.git

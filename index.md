@@ -170,31 +170,7 @@ for HPC Training on Python Programming.
 ## Lehigh University Research Computing Resources 
 Slides for presentation specific to Lehigh University Research Computing and guest lectures for various courses
 
-* [allocproposal.html](RProgramming/allocproposal.html)
-* [byos.html](RProgramming/byos.html)
-* [che396.html](RProgramming/che396.html)
-* [chm488.html](RProgramming/chm488.html)
-* [cse375.html](RProgramming/cse375.html)
-* [cse411.html](RProgramming/cse411.html)
-* [ees403.html](RProgramming/ees403.html)
-* [fac_orient.html](RProgramming/fac_orient.html)
-* [hpc2017.html](RProgramming/hpc2017.html)
-* [hpc2018.html](RProgramming/hpc2018.html)
-* [hpc2021.html](RProgramming/hpc2021.html)
-* [hpc2021parprog.html](RProgramming/hpc2021parprog.html)
-* [hpc2021parprog_interactive.html](RProgramming/hpc2021parprog_interactive.html)
-* [hpc2021prog.html](RProgramming/hpc2021prog.html)
-* [hpcsym2021.html](RProgramming/hpcsym2021.html)
-* [idisc.html](RProgramming/idisc.html)
-* [index.html](RProgramming/index.html)
-* [ise407.html](RProgramming/ise407.html)
-* [ltsrc.html](RProgramming/ltsrc.html)
-* [lurc-old.html](RProgramming/lurc-old.html)
-* [lurc.html](RProgramming/lurc.html)
-* [me450.html](RProgramming/me450.html)
-* [ondemand.html](RProgramming/ondemand.html)
-* [slurm-old.html](RProgramming/slurm-old.html)
-* [slurm.html](RProgramming/slurm.html)
+* Lehigh University Resources ([HTML](lurc/lurc.html) | [RMD](lurc.Rmd))
 
 
 
