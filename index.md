@@ -181,6 +181,15 @@ Repository for storing R Markdown and sample scripts for HPC Training on R Progr
 ([HTML](RProgramming/index.html) | [PDF](RProgramming/index.pdf)) 
 
 
+## Data Visualization with R
+
+Slides for Data Visualization with R presentation
+([HTML](DataVisualization/slidy.html) | [RMD](DataVisualization/slidy.Rmd))  
+
+* LTS Seminar Series at Lehigh University on
+  + Apr. 5, 2018
+  + Mar. 7, 2019
+
 
 
 ## Shell Scripting

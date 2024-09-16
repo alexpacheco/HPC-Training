@@ -52,3 +52,6 @@
 [submodule "ParallelProgramming"]
 	path = ParallelProgramming
 	url = git@github.com:alexpacheco/parprog.git
+[submodule "DataVisualization"]
+	path = DataVisualization
+	url = git@github.com:alexpacheco/datavis.git
